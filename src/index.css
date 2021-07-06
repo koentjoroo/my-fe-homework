@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', 'Segoe UI', sans-serif
+}
+
+.form-wrapper {
+    display: block;
+}
+
+.form-wrapper * {
+    display: block;
+    margin: 1rem;
+}
+
+.song-wrapper {
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
+    border: solid 1px #aaa;
+    border-radius: 8px;
+}
