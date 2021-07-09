@@ -1,1 +1,3 @@
-# GG Frontend Path Homework
+# #GenerasiGIGIH Frontend Path Homeworks
+
+This repository store my #GenerasiGIGIH technical classes homeworks.
