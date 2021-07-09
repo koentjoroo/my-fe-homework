@@ -10,3 +10,5 @@ This repository store my #GenerasiGIGIH technical classes homeworks.
   * [Session 2](/module-1/session-2)
     * [Hands On](/module-1/session-2/hands-on)
     * [Homework](/module-1/session-2/homework)
+  * [Session 3](/module-1/session-3)
+    * [Hands On](/module-1/session-3/hands-on)
