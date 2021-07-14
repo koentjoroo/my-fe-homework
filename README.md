@@ -2,6 +2,11 @@
 
 This repository store my #GenerasiGIGIH technical classes homeworks.
 
+## Important Update
+Repository has changed.
+* Hands on tasks [here](https://github.com/koentjoroo/generasi-gigih-hands-on)
+* Homework [here](https://github.com/koentjoroo/generasi-gigih-homework)
+
 ## Contents
 * [Module 1](/module-1)
   * [Session 1](/module-1/session-1)
